@@ -1,0 +1,632 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.10f1 (3bd4f66ad299) revision 3921142'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Daniel" at "2026-09-27T23:33:42.3325019Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'es' Physical Memory: 32601 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-27T23:33:42Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 24644, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              a846f31cf223419ea968d8c809eff052
+  Correlation Id:          9fe2d5794dbb7c5af7abecbb76933020
+  External correlation Id: 3786407274559289109
+  Machine Id:              PHCQLh/bfqUJsZpj1h/sV/n4MME=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Daniel" (connect: 0.00s, validation: 0.01s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Daniel-notifications" at "2026-09-27T23:33:42.3928701Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token Tcqgk0O11q...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674131449443-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.12s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Unity.exe
+-projectpath
+C:\Users\Daniel\Desktop\UltimaColoniaJuego1
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-Daniel
+-hubSessionId
+bb28da84-501e-4a36-8c13-f0610b1c78e9
+-accessToken
+Tcqgk0O11qvC9JCCBcG3dPSFlu57ijnM0w0owIl6ILA004f
+Successfully changed project path to: C:\Users\Daniel\Desktop\UltimaColoniaJuego1
+C:/Users/Daniel/Desktop/UltimaColoniaJuego1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [25348]  Target information:
+
+Player connection [25348]  * "[IP] 192.168.1.8 [Port] 55504 [Flags] 2 [Guid] 2158072276 [EditorId] 2158072276 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I5LHIQ0) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [25348] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [25348] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-13660" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.5.10f1 (3bd4f66ad299)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Daniel/Desktop/UltimaColoniaJuego1/Assets
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce GTX 1650 SUPER
+[D3D12 Device Filter] Driver Version: 32.0.15.8142
+[D3D12 Device Filter] Feature Level: 12.1
+[D3D12 Device Filter] Graphics Memory: 3930 MB
+[D3D12 Device Filter] Processor Count: 12
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:          NVIDIA
+    VRAM:            3930 MB
+    App VRAM Budget: 3340 MB
+    Driver:          32.0.15.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.10f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.015278 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.546 seconds
+Domain Reload Profiling: 1089ms
+	BeginReloadAssembly (139ms)
+		CreateAndSetChildDomain (9ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (89ms)
+	LoadAllAssembliesAndSetupDomain (294ms)
+		LoadAssemblies (125ms)
+		AnalyzeDomain (210ms)
+			TypeCache.Refresh (209ms)
+				TypeCache.ScanAssembly (195ms)
+	FinalizeReload (547ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (89ms)
+			ProcessInitializeOnLoadAttributes (96ms)
+			ProcessInitializeOnLoadMethodAttributes (293ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 64 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.2d.animation@15.1.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.animation@6d5a363ae647)
+    com.unity.2d.aseprite@5.0.3 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.aseprite@d13865913efa)
+    com.unity.2d.psdimporter@14.0.3 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.psdimporter@5d82044f9e43)
+    com.unity.2d.spriteshape@15.0.3 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.spriteshape@fcb7ec61a58b)
+    com.unity.2d.tilemap.extras@8.0.3 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.tilemap.extras@a80140457adc)
+    com.unity.2d.tooling@3.0.1 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.tooling@6f06ffb033c0)
+    com.unity.ide.rider@3.0.38 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.timeline@1.8.13 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.timeline@3a22918286f5)
+    com.unity.visualscripting@1.9.12 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.visualscripting@4edfcc09512f)
+    com.unity.2d.common@14.0.1 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.common@73badf92ba8b)
+    com.unity.searcher@4.9.5 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.burst@1.8.30 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.burst@2f3d916873ea)
+    com.unity.nuget.mono-cecil@1.11.6 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.test-framework.performance@3.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.2d.sprite@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.sprite@053a968eab56)
+    com.unity.2d.tilemap@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.2d.tilemap@b959501fd678)
+    com.unity.multiplayer.center@1.0.1 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.multiplayer.center@b860850997d0)
+    com.unity.render-pipelines.universal@17.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.render-pipelines.universal@d7774c218bdf)
+    com.unity.test-framework@1.7.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.test-framework@1405238725ab)
+    com.unity.ugui@2.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.ugui@1c4864518158)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.ext.nunit@2.1.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.ext.nunit@44f7d31723bd)
+    com.unity.render-pipelines.core@17.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.render-pipelines.core@bbba1f0c681e)
+    com.unity.shadergraph@17.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.shadergraph@8d7376ec43ee)
+    com.unity.render-pipelines.universal-config@17.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.render-pipelines.universal-config@fdda01c80fe3)
+    com.unity.mathematics@1.4.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.mathematics@981956d94fb6)
+    com.unity.collections@6.5.0 (location: C:\Users\Daniel\Desktop\UltimaColoniaJuego1\Library\PackageCache\com.unity.collections@ec2c217e4cb2)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.20 seconds
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:80
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\Daniel\Desktop\UltimaColoniaJuego1
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - 200 - application/grpc 29.4410ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/Daniel/Desktop/UltimaColoniaJuego1
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors - application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.5.10f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll"
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library\PackageCache\com.unity.burst@2f3d916873ea\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff\Mono.Cecil.dll
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors - 200 - application/grpc 63.7425ms
+ExitCode: 0 Duration: 0s492ms
+[ 841/1079  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.40 seconds), 1 items updated, 1079 evaluated
+AssetDatabase: script compilation time: 1.019457s
+Begin MonoManager ReloadAssembly
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.444 seconds
+Domain Reload Profiling: 4582ms
+	BeginReloadAssembly (386ms)
+		DisableScriptedObjects (58ms)
+		CreateAndSetChildDomain (153ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (639ms)
+		LoadAssemblies (355ms)
+		AnalyzeDomain (256ms)
+			TypeCache.Refresh (165ms)
+				TypeCache.ScanAssembly (154ms)
+			BuildScriptInfoCaches (79ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (3445ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (2587ms)
+			ProcessInitializeOnLoadMethodAttributes (423ms)
+			AfterProcessingInitializeOnLoad (13ms)
+		AwakeInstancesAfterBackupRestoration (47ms)
+Starting new worker id: 0 with log in C:/Users/Daniel/Desktop/UltimaColoniaJuego1/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=11517b9ad380b2149be502d230607c0a): Total: 6.614 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=4057 ms
+		Asset DB Callback time: managed=44 ms, native=200 ms
+		Scripting: domain reloads=1, domain reload time=1212 ms, compile time=1023 ms, other=76 ms
+		Project Asset Count: scripts=1439, non-scripts=2745
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 203.262ms
+	ApplyChangesToAssetFolders: 0.648ms
+	Scan: 148.057ms
+	Collect global state as custom dependencies: 21.388ms
+	CategorizeScriptCompilationAssets: 49.216ms
+	ProcessAssetsWithTransientArtifactChanges: 68.668ms
+	CategorizeAssets: 58.171ms
+	CompileScripts: 1023.039ms
+	ImportOutOfDateAssets: 3530.686ms (3465.737ms without children)
+		UnloadImportedAssets: 0.731ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.657ms
+		ImportSchedulerStart: 63.523ms
+	PostProcessAllAssets: 44.265ms
+		MonoPostProcessAllAssets: 44.169ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 14.405ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 4.128ms
+			SyncVS.PostprocessSyncProject 3.868ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.617ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.822ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.270ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.464ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.389ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.364ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.309ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.243ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.234ms
+	UnloadStreamsBegin: 3.190ms
+	PersistCurrentRevisions: 0.149ms
+	GenerateScriptTypeHashes: 2.383ms
+	GenerateScriptTypeSerializationHashes: 4.073ms
+	Untracked: 1446.174ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Scanning for USB devices : 6.671ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-UltimaColoniaJuego
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            50.543 ms
+	Integration:            392.929 ms
+	Integration of assets:  33.314 ms
+	Thread Wait Time:       3.142 ms
+	Total Operation Time:   479.928 ms
+Unloading 6461 unused Assets / (7.0 MB). Loaded Objects now: 7672.
+Memory consumption went from 445.0 MB to 438.0 MB.
+Total: 26.618900 ms (FindLiveObjects: 0.797600 ms CreateObjectMapping: 1.037800 ms MarkObjects: 6.150000 ms  DeleteObjects: 18.630200 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\Daniel\Desktop\UltimaColoniaJuego1\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/Daniel/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+<RI> Initializing input.
+Using Windows.Gaming.Input
+[Project] Loading completed in 11.477 seconds
+	Project init time: 				9.603 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.316 seconds
+		Asset Database init time: 		0.239 seconds
+		Global illumination init time: 	0.002 seconds
+		Assemblies load time: 			1.142 seconds
+		Unity extensions init time: 	0.040 seconds
+		Asset Database refresh time: 	6.615 seconds
+	Scene opening time: 			1.656 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1790552033799,"processId":13660,"projectLoad":11.4765725,"projectInit":9.6033065,"templateInit":0.0,"packageManagerInit":0.3161201,"assetDatabaseInit":0.2392662,"globalIlluminationInit":0.0021551,"assembliesLoad":1.1415166,"unityExtensionsInit":0.0399435,"assetDatabaseRefresh":6.6145058,"sceneOpening":1.6560241}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1790552033799,"processId":13660,"editorVersion":"6000.5.10f1 (3bd4f66ad299)","branch":"6000.5/staging","buildType":"Release","platform":"Windows"}
+Worker ready: AssetImportWorkerHW0 0
+Asset Pipeline Refresh (id=303a5ef55a2f6194e903037431086a7c): Total: 0.102 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=9c4b7a415b6f50c4c8ae99ac7c52a6d7): Total: 0.005 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Created GICache directory at C:/Users/Daniel/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.020s, timestamps: [12.950 - 12.970]
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "Tcqgk0O1"... (expires: 2026-09-28T01:27:54Z)
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received 'c507a8f6-eb34-407f-9774-9e40d596125b'.
+SpriteAtlasPacking completed in 0.006186 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            4.991 ms
+	Integration:            468.142 ms
+	Integration of assets:  0.031 ms
+	Thread Wait Time:       0.044 ms
+	Total Operation Time:   473.208 ms
+[Licensing::Client] Successfully resolved entitlement details
+GAME OVER
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GameManager:TriggerGameOver () (at Assets/Scripts/GameManager.cs:70)
+GameManager:LoseLife () (at Assets/Scripts/GameManager.cs:62)
+DestroyOutOfBounds2D:Update () (at Assets/Scripts/DestroyOutOfBounds2D.cs:20)
+
+(Filename: Assets/Scripts/GameManager.cs Line: 70)
+
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.448400 ms
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.418 ms
+	Integration:            166.973 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       12.011 ms
+	Total Operation Time:   180.404 ms
+Unloading 53 unused Assets / (17.2 MB). Loaded Objects now: 8623.
+Memory consumption went from 0.64 GB to 0.62 GB.
+Total: 28.932000 ms (FindLiveObjects: 0.451000 ms CreateObjectMapping: 0.263900 ms MarkObjects: 22.445200 ms  DeleteObjects: 5.771000 ms)
+
+TrimDiskCacheJob: Current cache size 0mb
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.034 ms
+	Integration:            167.301 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.012 ms
+	Total Operation Time:   169.350 ms
+Unloading 4 unused Assets / (15.2 MB). Loaded Objects now: 8654.
+Memory consumption went from 0.66 GB to 0.64 GB.
+Total: 26.142800 ms (FindLiveObjects: 0.440700 ms CreateObjectMapping: 0.276400 ms MarkObjects: 25.190200 ms  DeleteObjects: 0.234300 ms)
+
+SpriteAtlasPacking completed in 0.005230 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.576 ms
+	Integration:            177.228 ms
+	Integration of assets:  0.040 ms
+	Thread Wait Time:       0.020 ms
+	Total Operation Time:   178.863 ms
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.305 ms
+	Integration:            180.973 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.011 ms
+	Total Operation Time:   182.292 ms
+Unloading 4 unused Assets / (40.7 KB). Loaded Objects now: 8631.
+Memory consumption went from 0.63 GB to 0.63 GB.
+Total: 25.693100 ms (FindLiveObjects: 0.375000 ms CreateObjectMapping: 0.239600 ms MarkObjects: 25.023100 ms  DeleteObjects: 0.054100 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: 'f45899a0d778583f8691a1480ae09943') in 0.011 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=b6442c1a2b5adf18944b1c97fa4f9e17 StaticDependenciesID=f62db3b2783786c56546a9de14f64852 
+Asset Pipeline Refresh (id=951de8f56605861448212862fbfcbcfa): Total: 0.144 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+SpriteAtlasPacking completed in 0.004610 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.548 ms
+	Integration:            169.524 ms
+	Integration of assets:  0.032 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   171.112 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.239 ms
+	Integration:            163.784 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   165.040 ms
+Unloading 169 unused Assets / (27.0 MB). Loaded Objects now: 8614.
+Memory consumption went from 0.66 GB to 0.64 GB.
+Total: 25.159900 ms (FindLiveObjects: 0.374000 ms CreateObjectMapping: 0.249000 ms MarkObjects: 23.942100 ms  DeleteObjects: 0.593300 ms)
+
+Starting new worker id: 1 with log in C:/Users/Daniel/Desktop/UltimaColoniaJuego1/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '148ed7e4a66a89aebd2f48f67ce74c80') in 0.0962917 seconds
+Worker ready: AssetImportWorkerHW1 1
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: '46f678ee35155e73f7b3255ec915ae74') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=a81e5e412ce2ed2b6affd26c120e4946 StaticDependenciesID=f5a2e641886beb8556428140545232e5 
+Asset Pipeline Refresh (id=2178b03bf5bb83942a01549c82b3da9f): Total: 0.080 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+SpriteAtlasPacking completed in 0.006173 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.421 ms
+	Integration:            175.909 ms
+	Integration of assets:  0.036 ms
+	Thread Wait Time:       0.010 ms
+	Total Operation Time:   177.377 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.189 ms
+	Integration:            160.561 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.031 ms
+	Total Operation Time:   161.783 ms
+Unloading 169 unused Assets / (27.0 MB). Loaded Objects now: 8615.
+Memory consumption went from 0.67 GB to 0.64 GB.
+Total: 30.544200 ms (FindLiveObjects: 0.449900 ms CreateObjectMapping: 0.266300 ms MarkObjects: 29.460700 ms  DeleteObjects: 0.366100 ms)
+
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'b7969375ce5728161a5eb0804127a5d4') in 0.0198401 seconds
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: 'a5c14c2098ae35ae93eaea87e72a5520') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=60f3ad5b01bc293eead5c6114f127e83 StaticDependenciesID=18ff20ff4b0cff25ffae486e5ca98e47 
+Asset Pipeline Refresh (id=dfa1c5be68919924ea4297b56c6047f2): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8cc05dce3c5b8109171ec2bd119f10ee') in 0.0174567 seconds
+SpriteAtlasPacking completed in 0.005678 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.538 ms
+	Integration:            171.570 ms
+	Integration of assets:  0.032 ms
+	Thread Wait Time:       0.029 ms
+	Total Operation Time:   173.168 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.056 ms
+	Integration:            160.767 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.048 ms
+	Total Operation Time:   161.875 ms
+Unloading 169 unused Assets / (27.0 MB). Loaded Objects now: 8616.
+Memory consumption went from 0.67 GB to 0.64 GB.
+Total: 30.453500 ms (FindLiveObjects: 0.419200 ms CreateObjectMapping: 0.292300 ms MarkObjects: 29.328100 ms  DeleteObjects: 0.413000 ms)
+
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: 'fbbc3c2d1b81d30dded4e41b4d7cfd4e') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=a8e76d0af55107f6876543b2b4f4e8d2 StaticDependenciesID=612baf179d61a79b5383a29d44681c13 
+Asset Pipeline Refresh (id=67bae2ada9428cb479e0ad9514fc9b5a): Total: 0.078 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+SpriteAtlasPacking completed in 0.004747 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.482 ms
+	Integration:            177.989 ms
+	Integration of assets:  0.029 ms
+	Thread Wait Time:       0.013 ms
+	Total Operation Time:   179.513 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.234 ms
+	Integration:            172.748 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.046 ms
+	Total Operation Time:   174.029 ms
+Unloading 170 unused Assets / (27.1 MB). Loaded Objects now: 8618.
+Memory consumption went from 0.67 GB to 0.65 GB.
+Total: 34.307700 ms (FindLiveObjects: 0.512000 ms CreateObjectMapping: 0.400300 ms MarkObjects: 32.910200 ms  DeleteObjects: 0.483800 ms)
+
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'c4720631a129bd06829f6d2133fa9100') in 0.0198856 seconds
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: '7159663d41c654c5d076ad020a1e7e3f') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=6fea390b201177acc7001cdde2ff3885 StaticDependenciesID=95cacf07c1d071f045b5d5722043c51d 
+Asset Pipeline Refresh (id=651834a63ca1e1644bd9907eab9e5ea1): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+SpriteAtlasPacking completed in 0.004849 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.567 ms
+	Integration:            179.283 ms
+	Integration of assets:  0.026 ms
+	Thread Wait Time:       0.011 ms
+	Total Operation Time:   180.887 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.090 ms
+	Integration:            162.198 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   163.305 ms
+Unloading 170 unused Assets / (27.0 MB). Loaded Objects now: 8619.
+Memory consumption went from 0.67 GB to 0.65 GB.
+Total: 37.527200 ms (FindLiveObjects: 0.372600 ms CreateObjectMapping: 0.256800 ms MarkObjects: 36.498500 ms  DeleteObjects: 0.398300 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '8325f5ce3fb40eb5352aa734a4fbfe48') in 0.0202369 seconds
+Importing 'GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 8c9cfa26abfee488c85f1582747f6a02' -> (Import Result ID: '1cfea18282696e2a602ad134c3c22160') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=d9e1b38d15056e7131fe2ca7dd7db718 DependenciesID=d03879dfb3678807abb154c0ab56e691 StaticDependenciesID=493ef6a15e61cb6c28e512e94b99c9fb 
+Asset Pipeline Refresh (id=6fbc96f6be5c17d468cff3ccb9b99cd6): Total: 0.074 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+SpriteAtlasPacking completed in 0.005042 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.699 ms
+	Integration:            183.221 ms
+	Integration of assets:  0.030 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   184.958 ms
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.113 ms
+	Integration:            164.209 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.021 ms
+	Total Operation Time:   165.346 ms
+Unloading 170 unused Assets / (27.0 MB). Loaded Objects now: 8620.
+Memory consumption went from 0.67 GB to 0.65 GB.
+Total: 39.682600 ms (FindLiveObjects: 0.704800 ms CreateObjectMapping: 0.336700 ms MarkObjects: 38.162200 ms  DeleteObjects: 0.477700 ms)
+
+[Worker0] Imported GUID: 8c9cfa26abfee488c85f1582747f6a02 - Path: Assets/Scenes/SampleScene.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'a58b1f3bdb0e09124174409f92f8a09c') in 0.0189986 seconds
+MonoPathRemapper: Attempts to remap: 52540; Successful remaps: 20364
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout C:\Users\Daniel\Desktop\UltimaColoniaJuego1\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/Daniel/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-Daniel-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-Daniel channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+abort_threads: Failed aborting id: 0000000000003CB8, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000003EE0, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000003CB8, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000003EE0, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 4688
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1790552179894,"processId":13660,"allocatedMemory":53876933,"memoryLabels":[{"Default":221257},{"Permanent":15516},{"NewDelete":70821},{"Thread":4205944},{"Manager":819816},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":866735},{"Material":24},{"GfxDevice":93024},{"GfxThread":2304},{"Animation":952},{"Audio":1544},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":184320},{"Input":45280},{"JobScheduler":256},{"TextLib":19030},{"Mono":48},{"MonoCode":1216},{"ScriptingNativeRuntime":1665012},{"BaseObject":1622024},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":36680},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":9847},{"StaticString":3808},{"Utility":2673402},{"Curl":48},{"PoolAlloc":2360},{"AI":80},{"TypeTree":19053},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":6920},{"WebRequest":10241},{"VR":47114},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33329264},{"Camera":17},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":728},{"Hierarchy":1176},{"UIElements":1363176},{"CoreStats":13688},{"Identifiers":6768},{"Gui":802894},{"EditorUtility":203960},{"VersionControl":8},{"Undo":931},{"AssetDatabase":5053600},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35345},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":262},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3484},{"Windowing":456},{"Licensing":12806},{"AssetReference":32},{"IPCStream":32}]}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ultimacoloniajuego1\\assets\\scripts\\detectcollisions2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectcollisions2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\assets\\scripts\\spawnmanager2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\assets\\scripts\\destroyoutofbounds2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbounds2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\assets\\scripts\\animalmove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A1ACE6-FDD6-EBB1-2BF5-9E11C4403BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animalmove2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetectCollisions2D.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\DetectCollisions2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectCollisions2D.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\DetectCollisions2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectCollisions2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T00:18:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManager2D.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\SpawnManager2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager2D.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\SpawnManager2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager2D.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T00:18:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T00:15:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyOutOfBounds2D.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\DestroyOutOfBounds2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBounds2D.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\DestroyOutOfBounds2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBounds2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T00:09:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalMove2D.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\AnimalMove2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimalMove2D.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\UltimaColoniaJuego1\\Assets\\Scripts\\AnimalMove2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimalMove2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T00:08:35.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

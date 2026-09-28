@@ -1,0 +1,6 @@
+Library/PackageCache/**/*.dll filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/**/*.so filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/**/*.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/**/*.exe filter=lfs diff=lfs merge=lfs -text
+Library/Search/*.index filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
